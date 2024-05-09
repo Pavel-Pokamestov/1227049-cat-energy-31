@@ -15,3 +15,23 @@
   line-height: 18px;
   color: $special_dark-grey;
 }
+
+.functional__item--nutrients {
+  background-image: url("../../icons/stack.svg#icon_leaf");
+  background-color: #cccccc;
+}
+
+.functional__item--powder {
+  background-image: url("../../icons/stack.svg#icon_powder");
+  background-color: #cccccc;
+}
+
+.functional__item--diet {
+  background-image: url("../../icons/stack.svg#icon_eat");
+  background-color: #cccccc;
+}
+
+.functional__item--result {
+  background-image: url("../../icons/stack.svg#icon_scales");
+  background-color: #cccccc;
+}
