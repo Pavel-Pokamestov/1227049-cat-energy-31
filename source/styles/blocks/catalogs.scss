@@ -22,3 +22,11 @@
   text-transform: uppercase;
   text-decoration: none;
 }
+
+.catalogs__item--slim {
+  background-image: url("../../icons/stack.svg#cat-slim");
+}
+
+.catalogs__item--pro {
+  background-image: url("../../icons/stack.svg#cat-pro");
+}
